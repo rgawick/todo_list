@@ -1,0 +1,21 @@
+li {
+  list-style: none;
+  color: white;
+  background-color: #0a381d;
+  width: 20%
+}
+button{
+  background-color: #10592e;
+  color: white;
+  border: none;
+}
+h1{
+  color: white
+}
+h3{
+  color: white
+}
+body{
+  background-color: #17753e;
+  font-family: 'Roboto Mono', monospace;
+}
